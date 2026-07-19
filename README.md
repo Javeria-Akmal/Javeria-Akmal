@@ -1,4 +1,4 @@
-Hi, I'm Javeria Akmal, a Data Science undergraduate at Khwaja Fareed University (KFUEIT).
+**Hi, I'm Javeria Akmal, a Data Science undergraduate at Khwaja Fareed University (KFUEIT).**
 
 I'm passionate about turning raw data into meaningful insights and functional systems. I spend most of my time diving into Machine Learning, Big Data processing, and building end-to-end ML pipelines. Whether it's cleaning large-scale datasets with PySpark or explaining model predictions using SHAP and LIME, I love the process of finding patterns in data and making it useful.
 

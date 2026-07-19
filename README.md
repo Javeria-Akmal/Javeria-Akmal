@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Javeria Akmal 👋
 
-<!--
-**Javeria-Akmal/Javeria-Akmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science student at KFUEIT, Pakistan
+🎯 Building towards ML/AI Engineer & GenAI Engineer roles
+📈 Focused on end-to-end machine learning — from data cleaning to deployed models
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+Python · SQL · scikit-learn · XGBoost · PySpark · Git/GitHub · Google Colab
+
+
+🚀 Featured Projects
+
+Loan Default Prediction
+End-to-end ML/DL pipeline for loan default risk, deployed as a Streamlit app.
+
+Telecom Churn Prediction
+Predicting telecom customer churn using Logistic Regression, Random Forest & XGBoost — 84% ROC-AUC.
+
+Tweet Engagement Prediction
+Predicting tweet engagement (High/Low) from 12K+ tweets using XGBoost — 89.43% accuracy.
+
+Diabetes Risk Prediction (PySpark)
+Big Data ML pipeline for diabetes risk prediction using PySpark, Dask & XGBoost — 99.97% accuracy.
+
+
+📫 Connect with me
+
+LinkedIn

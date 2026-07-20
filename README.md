@@ -12,12 +12,6 @@
 
 <br>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Javeria-Akmal&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Akmal&layout=compact&theme=radical&hide_border=true" width="38%"/> </p> <br>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Javeria-Akmal&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Javeria-Akmal&layout=compact&theme=radical&hide_border=true" width="38%"/> </p> <br>
 📫 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/javeria-akmal-20942a409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:javeriaakmal07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
-Content
-excerpt_from_previous_claude_message.txt
-
-5 lines
-
-TXT

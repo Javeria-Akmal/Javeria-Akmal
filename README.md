@@ -1,11 +1,11 @@
-**Hi, I'm Javeria Akmal, a Data Science undergraduate at Khawaja Fareed University Of Engineering And Information Technology (KFUEIT).**
-
-I'm passionate about turning raw data into meaningful insights and functional systems. I spend most of my time diving into Machine Learning, Big Data processing, and building end-to-end ML pipelines. Whether it's cleaning large-scale datasets with PySpark or explaining model predictions using SHAP and LIME, I love the process of finding patterns in data and making it useful.
-
-💻 Tech Stack: Python, SQL, Scikit-learn, XGBoost, and PySpark.
-🌱 Learning: Constantly refining my skills in Machine Learning and Deep Learning.
-
-Technical Skills
-Languages: Python, SQL, Java, C++. Frameworks: Scikit-learn, XGBoost, PySpark, Dask. Specialties: Data Cleaning, Predictive Modeling, Feature Selection, and Model Explainability (SHAP, LIME).
-
-Key Projects: Diabetes Health Indicators: A big data ML pipeline processing 100,000+ records with PySpark, achieving 99.97% accuracy using XGBoost. Customer Churn Prediction: A predictive model on 7,000+ customer records with a best ROC-AUC of 0.8416. Cryptocurrency Tweet Engagement Prediction: A classification model on 12,000+ tweets achieving 89.4% accuracy, with SHAP and LIME explainability.
+<h1 align="center">Hi, I'm Javeria Akmal 👋</h1> <p align="center"> 🎓 BS Data Science Student @ KFUEIT, Pakistan &nbsp;|&nbsp; 🎯 Aspiring ML/AI Engineer </p> <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-006400?style=for-the-badge"/> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+🚀 Featured Projects
+Project	Description	Result
+Loan Default Prediction	End-to-end ML/DL pipeline, deployed as a Streamlit app	Live Demo ✅
+Telecom Churn Prediction	Logistic Regression, Random Forest & XGBoost	84% ROC-AUC
+Tweet Engagement Prediction	Classification on 12K+ tweets using XGBoost	89.43% Accuracy
+Diabetes Risk Prediction	Big Data ML pipeline with PySpark & Dask	99.97% Accuracy
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Javeria-Akmal&show_icons=true&theme=default&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Akmal&layout=compact&hide_border=true" height="165"/> </p>
+📫 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/javeria-akmal-20942a409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:jiyyaa13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>

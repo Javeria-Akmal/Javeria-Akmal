@@ -16,5 +16,3 @@
 📫 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/javeria-akmal-20942a409"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:javeriaakmal07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
-## 🛍️ Hire Me on Fiverr
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/javeria_akmal)

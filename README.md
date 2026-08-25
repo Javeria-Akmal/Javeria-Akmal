@@ -19,21 +19,39 @@
 <br>
 
 🔹 **[Loan Default Prediction](https://github.com/Javeria-Akmal/loan-default-prediction)**
-End-to-end ML/DL pipeline for loan default prediction, deployed as a Streamlit app — XGBoost ~82%, CNN ~84.7% accuracy
+End-to-end ML/DL pipeline for loan default prediction — XGBoost ~82%, CNN ~84.7% accuracy
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?style=flat-square&logo=streamlit&logoColor=white)](https://loan-default-prediction-uxs4yappjzsd2jcabdz9zuy.streamlit.app)
+
+<br>
 
 🔹 **[Telecom Churn Prediction](https://github.com/Javeria-Akmal/telecom-churn-prediction)**
-Predicting telecom customer churn using Logistic Regression, Random Forest & XGBoost — 84% ROC-AUC — [Live Demo](https://telecom-churn-prediction-vyoj2n9xtccfvu4uhyluzf.streamlit.app/)
+Predicting telecom customer churn using Logistic Regression, Random Forest & XGBoost — 84% ROC-AUC
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?style=flat-square&logo=streamlit&logoColor=white)](https://telecom-churn-prediction-vyoj2n9xtccfvu4uhyluzf.streamlit.app/)
+
+<br>
 
 🔹 **[Tweet Engagement Prediction](https://github.com/Javeria-Akmal/tweet-engagement-prediction)**
-Predicting tweet engagement (High/Low) from 12K+ tweets using XGBoost — 89.43% accuracy — [Live Demo](https://tweet-engagement-prediction-tyuvaa7j7n9kfbr6n8yl9z.streamlit.app/)
+Predicting tweet engagement (High/Low) from 12K+ tweets using XGBoost — 89.43% accuracy
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?style=flat-square&logo=streamlit&logoColor=white)](https://tweet-engagement-prediction-tyuvaa7j7n9kfbr6n8yl9z.streamlit.app/)
+
+<br>
 
 🔹 **[Diabetes Risk Prediction](https://github.com/Javeria-Akmal/diabetes-risk-prediction-pyspark)**
-End-to-end Big Data ML pipeline using PySpark, Dask & XGBoost, deployed as a live Streamlit app — 99.97% accuracy
+End-to-end Big Data ML pipeline using PySpark, Dask & XGBoost
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?style=flat-square&logo=streamlit&logoColor=white)](https://diabetes-risk-prediction-pyspark-mzvhgqercuq4uhqi53mxfe.streamlit.app/)
+
+<br>
 
 🔹 **[PDF RAG Chatbot](https://github.com/Javeria-Akmal/pdf-rag-chatbot)**
 RAG-based PDF chatbot built with LangChain, FAISS, and Hugging Face
 
-<br>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20App-brightgreen?style=flat-square&logo=streamlit&logoColor=white)](https://pdf-rag-chatbot-h5meyhgjdunte7py9rcvp2.streamlit.app)
+
+<br><br>
 
 ### 📊 GitHub Stats
 

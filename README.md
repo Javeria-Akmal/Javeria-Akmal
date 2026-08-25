@@ -18,17 +18,20 @@
 
 <br>
 
-🔹 **[Loan Default Prediction](https://github.com/Javeria-Akmal)**
-End-to-end ML/DL pipeline (XGBoost ~82%, CNN ~84.7% accuracy) on a 255K-row dataset
+🔹 **[Loan Default Prediction](https://github.com/Javeria-Akmal/loan-default-prediction)**
+End-to-end ML/DL pipeline for loan default prediction, deployed as a Streamlit app — XGBoost ~82%, CNN ~84.7% accuracy
 
 🔹 **[Telecom Churn Prediction](https://github.com/Javeria-Akmal/telecom-churn-prediction)**
-Logistic Regression, Random Forest & XGBoost — 84.16% ROC-AUC — [Live Demo](https://telecom-churn-prediction-vyoj2n9xtccfvu4uhyluzf.streamlit.app/)
+Predicting telecom customer churn using Logistic Regression, Random Forest & XGBoost — 84% ROC-AUC — [Live Demo](https://telecom-churn-prediction-vyoj2n9xtccfvu4uhyluzf.streamlit.app/)
 
 🔹 **[Tweet Engagement Prediction](https://github.com/Javeria-Akmal/tweet-engagement-prediction)**
-Classification with XGBoost, SHAP/LIME explainability — 89.4% Accuracy — [Live Demo](https://tweet-engagement-prediction-tyuvaa7j7n9kfbr6n8yl9z.streamlit.app/)
+Predicting tweet engagement (High/Low) from 12K+ tweets using XGBoost — 89.43% accuracy — [Live Demo](https://tweet-engagement-prediction-tyuvaa7j7n9kfbr6n8yl9z.streamlit.app/)
 
 🔹 **[Diabetes Risk Prediction](https://github.com/Javeria-Akmal/diabetes-risk-prediction-pyspark)**
-Big Data ML pipeline with PySpark & Dask, BigQuery — 99.97% Accuracy
+End-to-end Big Data ML pipeline using PySpark, Dask & XGBoost, deployed as a live Streamlit app — 99.97% accuracy
+
+🔹 **[PDF RAG Chatbot](https://github.com/Javeria-Akmal/pdf-rag-chatbot)**
+RAG-based PDF chatbot built with LangChain, FAISS, and Hugging Face
 
 <br>
 
